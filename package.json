@@ -1,0 +1,23 @@
+{
+  "name": "express-profile-landing-page",
+  "version": "1.0.0",
+  "description": "Simple profile landing page inspired by Brittany Chiang built with Express.js and HTML/CSS/JavaScript for Pemrograman Berbasis Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "landing-page",
+    "portfolio",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Fatoumata Siby",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
